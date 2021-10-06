@@ -34,8 +34,8 @@ prompts.
     - How do people interact with computers?
   - [X] Relationship to information theory
     - The relationship between truth, entropy and perplexity
-    - KL Divergence
     - Propaganda
+      - KL Divergence
     - Language models as base-truth
       - https://mullikine.github.io/posts/language-models-as-truth/
 
