@@ -33,7 +33,7 @@ prompts.
         - Complex (imaginary+real) personas
   - [X] Impact on HCI
     - How do people interact with computers?
-  - [X] Relationship to information theory
+  - [X] Relationship to information theory and alethiology
     - The relationship between truth, entropy and perplexity
     - Propaganda
       - KL Divergence
