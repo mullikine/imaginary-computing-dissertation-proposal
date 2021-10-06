@@ -20,23 +20,23 @@ prompts.
 # to a language model, rather than. It has big implications for software
 # licencing, copyright of artworks, AI safety.
 
-Questions to explore:
-- Impact on software licensing
-  - Holographic programming and GPL
-- Impact on AI safety
-  - Public face
-- Impact on the World Wide Web
-  - The Imaginary Web
-- Impact on Communications
-  - How do people interact with eachother?
-    - Asynchronous communication
-- Impact on HCI
-  - How do people interact with computers?
-    - 
-- Relationship to information theory
-  - The relationship between truth, entropy and perplexity
-- Language models as base-truth
-  - https://mullikine.github.io/posts/language-models-as-truth/
+- Possible questions to explore [5/7]:
+  - [X] Impact on software licensing
+    - Holographic programming and GPL
+  - [-] Impact on AI safety
+    - Public face
+  - [X] Impact on the World Wide Web
+    - The Imaginary Web
+  - [X] Impact on Communications
+    - How do people interact with eachother?
+      - Asynchronous communication
+  - [X] Impact on HCI
+    - How do people interact with computers?
+      - 
+  - [-] Relationship to information theory
+    - The relationship between truth, entropy and perplexity
+  - [X] Language models as base-truth
+    - https://mullikine.github.io/posts/language-models-as-truth/
 
 A subfield of _Imaginary Computing_ is _Imaginary Programming_, which I'll explore in greater detail due
 to its central nature and explanatory ability for the rest of the computing paradigm.
