@@ -20,7 +20,7 @@ prompts.
 # to a language model, rather than. It has big implications for software
 # licencing, copyright of artworks, AI safety.
 
-- Possible questions to explore [6/7]:
+- Possible questions to explore [5/6]:
   - [X] Impact on software licensing
     - Holographic programming and GPL
   - [-] Impact on AI safety
@@ -30,6 +30,7 @@ prompts.
   - [X] Impact on Communications
     - How do people interact with eachother?
       - Asynchronous communication
+        - Complex (imaginary+real) personas
   - [X] Impact on HCI
     - How do people interact with computers?
   - [X] Relationship to information theory
