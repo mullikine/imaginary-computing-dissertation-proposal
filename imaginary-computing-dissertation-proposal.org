@@ -74,6 +74,7 @@ appropriate to your research than others.
 
 ** Aims & objectives
 + What the research hopes to achieve
+  - Clarity on 
 
 + What outcomes I predict
 
