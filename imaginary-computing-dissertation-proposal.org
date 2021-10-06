@@ -73,9 +73,11 @@ appropriate to your research than others.
 - pragmatic due to accelerationism
 
 ** Aims & objectives
-Your dissertation proposal should also include the aims and objectives of your
-research. Be sure to state what your research hopes to achieve, and what
-outcomes you predict. You may also need to clearly state what your main
++ What the research hopes to achieve
+
++ What outcomes I predict
+
+Clearly state what your main
 research objectives are, in other words, how you plan to obtain those
 achievements and outcomes
 
@@ -96,97 +98,3 @@ topics will have broad links to numerous larger and more complex issues, so by
 clearly stating the constraints of your research, you are displaying your
 understanding and acknowledgment of these larger issues, and the role they play
 by focusing your research on just one section or part of the subject.
-** Dissertation proposal: Exploratory research into Imaginary Programming
-*** Introduction
- /Imaginary Computing/ is a new area of computing that harnesses the imagination
- of large neural networks in order to infer rather than compute.
-
- The implications of leaning more heavily on
- deep NNs to provide a computing experince
- profoundly impact the way that people interact
- with computers (HCI), software engineering,
- public safety and copyright law to name a few
- areas. I have developed a light-weight
- computing environment based on emacs which a
- unique capability to explore the multi-faceted
- area of Imaginary Computing by utilising the
- universality of text-based applications and
- their ability to fit within a the window of LM
- prompts.
-
- # Software may be qualified according to a relativistic base-truth with respect
- # to a language model, rather than. It has big implications for software
- # licencing, copyright of artworks, AI safety.
-
- Questions to explore:
- - Impact on software licensing
-   - Holographic programming and GPL
- - Impact on AI safety
-   - Public face
- - Impact on the World Wide Web
-   - The Imaginary Web
- - Impact on Communications
-   - How do people interact with eachother?
-     - Asynchronous communication
- - Impact on HCI
-   - How do people interact with computers?
-     - 
- - Relationship to information theory
-   - The relationship between truth, entropy and perplexity
- - Language models as base-truth
-   - https://mullikine.github.io/posts/language-models-as-truth/
-
- A subfield of _Imaginary Computing_ is _Imaginary Programming_, which I'll explore in greater detail due
- to its central nature and explanatory ability for the rest of the computing paradigm.
-
- This thesis does not intend to offer any final
- and conclusive solutions to existing problems
- but to merely shed light on this new area of
- computing, creating definitions for discovered
- concepts and exposing possible ramifications.
-
- # The introduction will state your central research question and give background
- # on the subject, as well as relating it contextually to any broader issues
- # surrounding it. Read more about picking a topic for your dissertation. 
-
-*** Dissertation methodology
- Sources:
- - My own novel research
-   - Prompting with Pen.el
-   - Correspondence on forums
-
- Analysis of data:
- - Accuracy
-
- The dissertation methodology will break down what sources you aim to use for
- your research, and what sort of data you will collect from it, either
- quantitative or qualitative. You may also want to include how you will analyse
- the data you gather and what if any bias there may be in your chosen methods.
- Depending on the level of detail that your specific course requires, you may
- also want to explain why your chosen approaches to gathering data are more
- appropriate to your research than others.
-
-*** Aims & objectives
- Your dissertation proposal should also include the aims and objectives of your
- research. Be sure to state what your research hopes to achieve, and what
- outcomes you predict. You may also need to clearly state what your main
- research objectives are, in other words, how you plan to obtain those
- achievements and outcomes
-
-*** Literature review
- The literature review will list the books and materials that you used to do
- your research. This is where you can list materials that give you more
- background on your topic, or contain research carried out previously that you
- refer to in your own studies. It’s also a good place to demonstrate how your
- research connects to previous academic studies, and how your methods may differ
- from or be building upon those used by other researchers. While it’s important
- to give enough information about the materials to show that you have read and
- understood them, don’t forget to include your analysis of their value to your
- work.
-
-*** Constraints of your research
- Lastly, you will also need to include the constraints of your research. Many
- topics will have broad links to numerous larger and more complex issues, so by
- clearly stating the constraints of your research, you are displaying your
- understanding and acknowledgment of these larger issues, and the role they play
- by focusing your research on just one section or part of the subject.
