@@ -64,11 +64,13 @@ Analysis of data:
 
 The dissertation methodology will break down what sources you aim to use for
 your research, and what sort of data you will collect from it, either
-quantitative or qualitative. You may also want to include how you will analyse
-the data you gather and what if any bias there may be in your chosen methods.
-Depending on the level of detail that your specific course requires, you may
-also want to explain why your chosen approaches to gathering data are more
+quantitative or qualitative.
+
+Explain why your chosen approaches to gathering data are more
 appropriate to your research than others.
+
+- terminal within a prompt window
+- pragmatic due to accelerationism
 
 ** Aims & objectives
 Your dissertation proposal should also include the aims and objectives of your
