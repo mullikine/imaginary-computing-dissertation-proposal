@@ -20,7 +20,7 @@ prompts.
 # to a language model, rather than. It has big implications for software
 # licencing, copyright of artworks, AI safety.
 
-- Possible questions to explore [5/7]:
+- Possible questions to explore [6/7]:
   - [X] Impact on software licensing
     - Holographic programming and GPL
   - [-] Impact on AI safety
@@ -32,11 +32,12 @@ prompts.
       - Asynchronous communication
   - [X] Impact on HCI
     - How do people interact with computers?
-      - 
-  - [-] Relationship to information theory
+  - [X] Relationship to information theory
     - The relationship between truth, entropy and perplexity
-  - [X] Language models as base-truth
-    - https://mullikine.github.io/posts/language-models-as-truth/
+    - KL Divergence
+    - Propaganda
+    - Language models as base-truth
+      - https://mullikine.github.io/posts/language-models-as-truth/
 
 A subfield of _Imaginary Computing_ is _Imaginary Programming_, which I'll explore in greater detail due
 to its central nature and explanatory ability for the rest of the computing paradigm.
