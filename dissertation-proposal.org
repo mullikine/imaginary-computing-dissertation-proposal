@@ -1,14 +1,33 @@
+http://github.com/mullikine/imaginary-computing-dissertation-proposal
+
 * Dissertation proposal: Exploratory research into Imaginary Programming
 ** Introduction
 /Imaginary Computing/ is a new area of computing that harnesses the imagination
 of large neural networks in order to infer rather than compute.
 
-The implications of leaning more heavily on
-deep NNs to provide a computing experince
-profoundly impact the way that people interact
-with computers (HCI), software engineering,
+One implication of leveraging deep NNs as
+sources of information is that there is less
+reliance on hard calculation, and more
+reliance on oracles. Qualifying the
+information the oracles present must be done
+in terms of its truthfulness.
+
+Several areas of computing that will be
+transformed are HCI, software engineering,
 public safety and copyright law to name a few
-areas. I have developed a light-weight
+areas.
+
+#+BEGIN_SRC text -n :async :results verbatim code
+  I propose a programming paradigm of where software components are defined in terms of
+  a truth source and a prompt.
+#+END_SRC
+
+My research is into /Imaginary Programming/,
+specifically. A major question is, "How is
+programming done in terms of oracles and
+truth?"
+
+I have developed a light-weight
 computing environment based on emacs which a
 unique capability to explore the multi-faceted
 area of Imaginary Computing by utilising the
@@ -20,25 +39,23 @@ prompts.
 # to a language model, rather than. It has big implications for software
 # licencing, copyright of artworks, AI safety.
 
-- Possible questions to explore [5/6]:
-  - [X] Impact on software licensing
-    - Holographic programming and GPL
-  - [-] Impact on AI safety
-    - Public face
-  - [X] Impact on the World Wide Web
-    - The Imaginary Web
-  - [X] Impact on Communications
-    - How do people interact with eachother?
-      - Asynchronous communication
-        - Complex (imaginary+real) personas
-  - [X] Impact on HCI
-    - How do people interact with computers?
-  - [X] Relationship to information theory and alethiology
-    - The relationship between truth, entropy and perplexity
-    - Propaganda
-      - KL Divergence
-    - Language models as base-truth
-      - https://mullikine.github.io/posts/language-models-as-truth/
+Questions to explore:
+- Impact on software licensing
+  - Holographic programming and GPL
+- Impact on AI safety
+  - Public face
+- Impact on the World Wide Web
+  - The Imaginary Web
+- Impact on Communications
+  - How do people interact with eachother?
+    - Asynchronous communication
+- Impact on HCI
+  - How do people interact with computers?
+    - 
+- Relationship to information theory
+  - The relationship between truth, entropy and perplexity
+- Language models as base-truth
+  - https://mullikine.github.io/posts/language-models-as-truth/
 
 A subfield of _Imaginary Computing_ is _Imaginary Programming_, which I'll explore in greater detail due
 to its central nature and explanatory ability for the rest of the computing paradigm.
@@ -46,11 +63,41 @@ to its central nature and explanatory ability for the rest of the computing para
 This thesis does not intend to offer any final
 and conclusive solutions to existing problems
 but to merely shed light on this new area of
-computing by defining concepts and exposing possible ramifications.
+computing, creating definitions for discovered
+concepts and exposing possible ramifications.
 
 # The introduction will state your central research question and give background
 # on the subject, as well as relating it contextually to any broader issues
 # surrounding it. Read more about picking a topic for your dissertation. 
+
+*** Where is the potential Imaginary Programming?
+It will become necessary to employ IP when the
+world is flushed with different LMs that are
+used as sources of truth.
+
+**** Language models as general models for the fabric of a society
+A LM, may be trained on information from the
+real world, or on a simulation of a society.
+
+Then software that is based on LMs may be used
+between different LMs to build useful systems.
+
+*** Truth / Alethiology / Epistemology
+A major issue with programming with LMs is the
+correctness of its output.
+
+=Constructivist= and [maybe] =Consensus=
+
+https://mullikine.github.io/posts/book-review-with-codex/
+
+Constructivist truth comes from the language model training.
+
+=Consensus=
+
+Consensus truth comes from blockchain.
+
+*** Imaginary simulation
+=pf-guess-outcome/1=
 
 ** Dissertation methodology
 Sources:
@@ -63,21 +110,16 @@ Analysis of data:
 
 The dissertation methodology will break down what sources you aim to use for
 your research, and what sort of data you will collect from it, either
-quantitative or qualitative.
-
-Explain why your chosen approaches to gathering data are more
+quantitative or qualitative. You may also want to include how you will analyse
+the data you gather and what if any bias there may be in your chosen methods.
+Depending on the level of detail that your specific course requires, you may
+also want to explain why your chosen approaches to gathering data are more
 appropriate to your research than others.
 
-- terminal within a prompt window
-- pragmatic due to accelerationism
-
 ** Aims & objectives
-+ What the research hopes to achieve
-  - Clarity on 
-
-+ What outcomes I predict
-
-Clearly state what your main
+Your dissertation proposal should also include the aims and objectives of your
+research. Be sure to state what your research hopes to achieve, and what
+outcomes you predict. You may also need to clearly state what your main
 research objectives are, in other words, how you plan to obtain those
 achievements and outcomes
 

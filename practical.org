@@ -1,0 +1,42 @@
+* Practical goals
+Achieving practical goals to serve as the basis of future goals is an
+important practice for remaining on the cutting edge of this technology.
+
+- 𝑖λ²
+  - Build a Haskell library that queries GPT-4 without Pen.el
+
+I want to continue my prompting / HCI research and develop:
+- LSP Server
+- Imaginary programming libraries
+  - emacs lisp
+  - Prolog
+  - Haskell
+    - Compare and LMs
+- A prompting library based on Haskell
+  - Load =.prompt= files
+
+* A textual user interface to AGI
+** Explanation
+Imaginary computing is the paradigm concerning
+truth and reality for a user as a means of
+relating to AGI and thus providing a means to
+control AGI.
+
+In other words, it's 
+  - A textual interface
+
+** Example
+If Neuralink had a module which enabled you to
+have more control over your reality:
+- You live in a cupboard but
+  - You want to imagine you are in a mansion
+  - You want to imagine you have lots of *real* friends to talk to
+  - You want to believe things that don't exist
+  - You want to have finer control over your conscious state
+  - You want to have finer control over your unconscious state
+
+What will be the interface?
+- Pen.el will be the terminal for this, hopefully
+
+Why would Pen.el be appropriate?
+Because it's harvesting the inspiration from all emacs developers.
