@@ -2,8 +2,10 @@ http://github.com/mullikine/imaginary-computing-dissertation-proposal
 
 * Dissertation proposal: Exploratory research into Imaginary Programming
 ** Introduction
-/Imaginary Computing/ is a new area of computing that harnesses the imagination
-of large neural networks in order to infer rather than compute.
+/Imaginary Computing/ is a new area of
+computing that harnesses the imagination of
+large NNs in order to infer rather than
+compute.
 
 One implication of leveraging deep NNs as
 sources of information is that there is less
