@@ -1,4 +1,28 @@
-* <2021-10-13 Wed> We need to be able to share the output of prompts for the sake of not divulging private information
+* Privacy in prompting
+** Prompting by proxy
+A prompt may be carried out by another user.
+
+** Using fake data
+$PROMPTS/pf-new-file-completion.prompt
+
+Imaginary programming is useful to generate fake data in your programs, and
+especially prompts.
+
+Keep in mind that prompts are sending intelligible queries to a remote server
+and those queries may be viewed.
+
+Since privacy is an issue, we can instead generate fake data, perhaps
+generated from the language model we are about to query.
+
+For example, do we want to list out real files on our system and use that as
+input to a prompt?
+
+(pen-snc \"ls | head -n 10\")
+
+- Privacy
+
+** <2021-10-13 Wed> We need to be able to share the output of prompts for the sake of not divulging private information
+
 For example, listing the real contents of our
 current directory.
 
