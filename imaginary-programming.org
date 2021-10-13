@@ -2,6 +2,8 @@
 ** Prompting by proxy
 A prompt may be carried out by another user.
 
+- Semiosis token
+
 ** Using fake data
 e:$PROMPTS/pf-new-file-completion.prompt
 
