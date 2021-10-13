@@ -10,7 +10,11 @@ compute.
 One implication of leveraging deep NNs as
 sources of information is that there is less
 reliance on hard calculation, and more
-reliance on oracles. Qualifying the
+reliance on oracles.
+
+A need arises to do programming in this way if there is to be any software that intelligibly interacts with software (such as chatbots)
+
+Qualifying the
 information the oracles present must be done
 in terms of its truthfulness.
 
