@@ -3,7 +3,7 @@
 A prompt may be carried out by another user.
 
 ** Using fake data
-$PROMPTS/pf-new-file-completion.prompt
+e:$PROMPTS/pf-new-file-completion.prompt
 
 Imaginary programming is useful to generate fake data in your programs, and
 especially prompts.
@@ -17,7 +17,9 @@ generated from the language model we are about to query.
 For example, do we want to list out real files on our system and use that as
 input to a prompt?
 
-(pen-snc \"ls | head -n 10\")
+#+BEGIN_SRC emacs-lisp -n :async :results verbatim code
+  (pen-snc \"ls | head -n 10\")
+#+END_SRC
 
 - Privacy
 
