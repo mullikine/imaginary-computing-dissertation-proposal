@@ -2,6 +2,8 @@
 ** Earn semiosis prompting tokens by prompting on other's behalf
 You have to prove somehow that you prompted for this to be acceptable.
 
+This would work by divulging your key somehow to a third party.
+
 * Privacy in prompting
 ** Prompting by proxy
 A prompt may be carried out by another user.
