@@ -2,6 +2,7 @@
 ** Prompting by proxy
 A prompt may be carried out by another user.
 
+- p2p prompt anonymisation network
 - Semiosis token
 
 ** Using fake data
